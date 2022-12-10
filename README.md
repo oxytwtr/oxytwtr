@@ -1,16 +1,17 @@
-### Hi there 👋
+## Всем привет! 👋
+Меня зовут Алексей, я начинаю учиться науке о данных (прохожу курс от Яндекс Практикум)
 
-<!--
-**oxytwtr/oxytwtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi all!
+My name is Alexey, i'm designer and maintenance engineer (HVAC) and data engineer (trainee)
+and now I started studying, taking courses (program) Data Science (Yandex Practicum)
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 Python
+- ⚙️ Pandas, Sklearn, 
+- 💽 SQL
+- 📐 AutoCAD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Contact
+- [@bb40e64e](https://t.me/bb40e64e) on Telegram
