@@ -1,14 +1,13 @@
 ## Всем привет! 👋
-Меня зовут Алексей, я начинающий Python - разработчик (DE ML DS)
+Меня зовут Алексей, я разработчик DWH + ML + DS
 
 ## Hi all!
-My name is Alexey, i'm designer and maintenance engineer (HVAC) and data engineer (trainee)
-and now I started studying, taking courses (program) Data Science (Yandex Practicum)
+My name is Alexey, i'm data & ML engineer and designer & maintenance engineer (HVAC).
 
 ## Skills
 - 👨‍💻 Python
-- ⚙️ Pandas, Sklearn, 
-- 💽 SQL
+- ⚙️ NumPy, Pandas, Matplotlib, Sklearn, PySpark, LightGBM, Optuna, Keras, PyTorch 
+- 💽 PostgreSQL, Nebula, Cypher, nGQL, MongoDB
 - 📐 AutoCAD
 
 
